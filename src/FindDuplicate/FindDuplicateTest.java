@@ -13,24 +13,33 @@ public class FindDuplicateTest {
 
     @org.junit.Test
     public void testFindFirstDuplicateCharacter() throws IOException {
-
         //given
         String input = "abcabc";
         //when string is processed
         //then it returns
-        int output = 0;
+        int output = 3;
         Assert.assertEquals(output, findDuplicate(input));
 
     }
 
     @org.junit.Test
     public void testNoDuplicateCharFound() throws IOException {
-
         //given
-        String input = "abcd";
+        String input = "abcdef";
         //when string is processed
         //then no duplicates are found
         int output = -1;
         Assert.assertEquals(output, findDuplicate(input));
+    }
+
+    @org.junit.Test
+    public void testFindFirstDuplicateCharacterLong() throws IOException {
+        //given
+        String input = "axcdefghijkzymncl";
+        //when string is processed
+        //then it returns
+        int output = 15;
+        Assert.assertEquals(output, findDuplicate(input));
+
     }
 }
