@@ -24,5 +24,10 @@ public class ReverseStringTest {
         Assert.assertEquals("Output is reverse",output, ReverseString.reverseString(input)) ;
     }
 
+    @org.junit.Test
+    public void reverseStringTest3() {
+        Assert.assertEquals(ReverseStringDemo.reverseStringDemo("Hello World!"), "!dlroW olleH");
+    }
+
 
 }
