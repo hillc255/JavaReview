@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/BinarySearch/BinarySearch.java" line="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6d7513e-71ca-41e0-ba1d-c23428be550f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ReverseString/ReverseStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseString/ReverseStringTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="b6d7513e-71ca-41e0-ba1d-c23428be550f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,31 +18,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ReverseString/ReverseString.java">
+        <entry file="file://$PROJECT_DIR$/src/TopK/TopK.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="52" />
+            <state relative-caret-position="40">
+              <caret line="21" column="61" lean-forward="true" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TopK/TopKDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="59" />
               <folding>
-                <element signature="e#580#591#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ReverseString/ReverseStringTest.java">
+        <entry file="file://$PROJECT_DIR$/src/TopK/TopKTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ReverseString/ReverseStringDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            <state relative-caret-position="305">
+              <caret line="37" column="69" lean-forward="true" selection-start-line="37" selection-start-column="69" selection-end-line="37" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -110,6 +108,9 @@
         <option value="$PROJECT_DIR$/src/ReverseString/ReverseString.java" />
         <option value="$PROJECT_DIR$/src/ReverseString/ReverseStringDemo.java" />
         <option value="$PROJECT_DIR$/src/ReverseString/ReverseStringTest.java" />
+        <option value="$PROJECT_DIR$/src/TopK/TopK.java" />
+        <option value="$PROJECT_DIR$/src/TopK/TopKDemo.java" />
+        <option value="$PROJECT_DIR$/src/TopK/TopKTest.java" />
       </list>
     </option>
   </component>
@@ -120,8 +121,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="383" />
-    <option name="y" value="3" />
+    <option name="x" value="338" />
+    <option name="y" value="174" />
     <option name="width" value="1277" />
     <option name="height" value="841" />
   </component>
@@ -147,37 +148,7 @@
               <item name="JavaReview" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaReview" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="FindDuplicate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaReview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaReview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="GroupString" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaReview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaReview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MapAndSet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaReview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaReview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MapConcat" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaReview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaReview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ReverseString" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaReview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaReview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="TwoSum" type="462c0819:PsiDirectoryNode" />
+              <item name="TopK" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -208,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ReverseStringTest.reverseStringTest3">
+  <component name="RunManager" selected="JUnit.TopKTest.TopKTest3">
     <configuration name="BinarySearch" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearch" />
       <module name="UdacityJava" />
@@ -219,22 +190,6 @@
     <configuration name="VowelOnly" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="VowelOnly" />
       <module name="UdacityJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseStringTest.reverseStringTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UdacityJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ReverseString.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ReverseString" />
-      <option name="MAIN_CLASS_NAME" value="ReverseString.ReverseStringTest" />
-      <option name="METHOD_NAME" value="reverseStringTest1" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -271,33 +226,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSumTest.twoSumFalseThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TopKTest.TopKTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UdacityJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TwoSum.*" />
+          <option name="PATTERN" value="TopK.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TwoSum" />
-      <option name="MAIN_CLASS_NAME" value="TwoSum.TwoSumTest" />
-      <option name="METHOD_NAME" value="twoSumFalseThree" />
+      <option name="PACKAGE_NAME" value="TopK" />
+      <option name="MAIN_CLASS_NAME" value="TopK.TopKTest" />
+      <option name="METHOD_NAME" value="TopKTest1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSumTest.twoSumTrueTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TopKTest.TopKTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UdacityJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TwoSum.*" />
+          <option name="PATTERN" value="TopK.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TwoSum" />
-      <option name="MAIN_CLASS_NAME" value="TwoSum.TwoSumTest" />
-      <option name="METHOD_NAME" value="twoSumTrueTwo" />
+      <option name="PACKAGE_NAME" value="TopK" />
+      <option name="MAIN_CLASS_NAME" value="TopK.TopKTest" />
+      <option name="METHOD_NAME" value="TopKTest2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopKTest.TopKTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UdacityJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TopK.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TopK" />
+      <option name="MAIN_CLASS_NAME" value="TopK.TopKTest" />
+      <option name="METHOD_NAME" value="TopKTest3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -306,19 +277,19 @@
     <list>
       <item itemvalue="Application.BinarySearch" />
       <item itemvalue="Application.VowelOnly" />
-      <item itemvalue="JUnit.TwoSumTest.twoSumTrueTwo" />
-      <item itemvalue="JUnit.TwoSumTest.twoSumFalseThree" />
       <item itemvalue="JUnit.ReverseStringTest.reverseStringTest2" />
-      <item itemvalue="JUnit.ReverseStringTest.reverseStringTest1" />
       <item itemvalue="JUnit.ReverseStringTest.reverseStringTest3" />
+      <item itemvalue="JUnit.TopKTest.TopKTest1" />
+      <item itemvalue="JUnit.TopKTest.TopKTest2" />
+      <item itemvalue="JUnit.TopKTest.TopKTest3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TopKTest.TopKTest3" />
+        <item itemvalue="JUnit.TopKTest.TopKTest2" />
+        <item itemvalue="JUnit.TopKTest.TopKTest1" />
         <item itemvalue="JUnit.ReverseStringTest.reverseStringTest3" />
         <item itemvalue="JUnit.ReverseStringTest.reverseStringTest2" />
-        <item itemvalue="JUnit.ReverseStringTest.reverseStringTest1" />
-        <item itemvalue="JUnit.TwoSumTest.twoSumFalseThree" />
-        <item itemvalue="JUnit.TwoSumTest.twoSumTrueTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -344,24 +315,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReverseStringTest_reverseStringTest2 - 2019.09.16 at 04h 31m 14s.xml">
-      <configuration name="ReverseStringTest.reverseStringTest2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseStringTest_reverseStringTest2 - 2019.09.16 at 04h 42m 51s.xml">
-      <configuration name="ReverseStringTest.reverseStringTest2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseStringTest_reverseStringTest2 - 2019.09.16 at 04h 46m 13s.xml">
-      <configuration name="ReverseStringTest.reverseStringTest2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseStringTest_reverseStringTest2 - 2019.09.16 at 04h 47m 10s.xml">
-      <configuration name="ReverseStringTest.reverseStringTest2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseStringTest_reverseStringTest1 - 2019.09.16 at 04h 47m 31s.xml">
-      <configuration name="ReverseStringTest.reverseStringTest1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseStringTest_reverseStringTest2 - 2019.09.16 at 04h 54m 03s.xml">
-      <configuration name="ReverseStringTest.reverseStringTest2" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ReverseStringTest_reverseStringTest1 - 2019.09.16 at 04h 54m 26s.xml">
       <configuration name="ReverseStringTest.reverseStringTest1" configurationId="JUnit" />
     </history-entry>
@@ -374,12 +327,30 @@
     <history-entry file="ReverseStringTest_reverseStringTest3 - 2019.09.16 at 05h 16m 53s.xml">
       <configuration name="ReverseStringTest.reverseStringTest3" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TopKTest_TopKTest1 - 2019.09.16 at 06h 05m 42s.xml">
+      <configuration name="TopKTest.TopKTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TopKTest_TopKTest1 - 2019.09.16 at 06h 07m 17s.xml">
+      <configuration name="TopKTest.TopKTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TopKTest_TopKTest1 - 2019.09.16 at 06h 09m 29s.xml">
+      <configuration name="TopKTest.TopKTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TopKTest_TopKTest1 - 2019.09.16 at 06h 10m 18s.xml">
+      <configuration name="TopKTest.TopKTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TopKTest_TopKTest1 - 2019.09.16 at 06h 10m 53s.xml">
+      <configuration name="TopKTest.TopKTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TopKTest_TopKTest2 - 2019.09.16 at 06h 11m 14s.xml">
+      <configuration name="TopKTest.TopKTest2" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="383" y="3" width="1277" height="841" extended-state="0" />
+    <frame x="338" y="174" width="1277" height="841" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24812657" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24812657" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -388,7 +359,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45266274" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32840237" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.41520467" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -634,10 +605,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TwoSum/TwoSumTest.java">
+    <entry file="file://$PROJECT_DIR$/src/ReverseString/ReverseStringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="47" column="28" lean-forward="true" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+        <state relative-caret-position="122">
+          <caret line="29" column="4" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -651,17 +622,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReverseString/ReverseStringDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/TwoSum/TwoSumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        <state relative-caret-position="105">
+          <caret line="43" column="2" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReverseString/ReverseStringTest.java">
+    <entry file="file://$PROJECT_DIR$/src/ReverseString/ReverseStringDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="63">
+          <caret line="3" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TopK/TopK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="21" column="61" lean-forward="true" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TopK/TopKDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TopK/TopKTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="37" column="69" lean-forward="true" selection-start-line="37" selection-start-column="69" selection-end-line="37" selection-end-column="69" />
         </state>
       </provider>
     </entry>
