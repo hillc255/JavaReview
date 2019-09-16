@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6d7513e-71ca-41e0-ba1d-c23428be550f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FindDuplicate/FindDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindDuplicate/FindDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FindDuplicate/FindDuplicateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindDuplicate/FindDuplicateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,37 +20,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FindDuplicate/FindDuplicateTest.java">
+        <entry file="file://$PROJECT_DIR$/src/ReverseString/ReverseString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="37" column="43" lean-forward="true" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
+            <state relative-caret-position="621">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#580#591#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/FindDuplicate/FindDuplicateDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/ReverseString/ReverseStringTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FindDuplicate/FindDuplicate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="189">
+              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -62,6 +45,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -107,6 +91,15 @@
         <option value="$PROJECT_DIR$/src/FindDuplicate/FindDuplicateTest.java" />
         <option value="$PROJECT_DIR$/src/FindDuplicate/FindDuplicate.java" />
         <option value="$PROJECT_DIR$/src/FindDuplicate/FindDuplicateDemo.java" />
+        <option value="$PROJECT_DIR$/src/FindDuplicate/FindDuplicateDemoTest.java" />
+        <option value="$PROJECT_DIR$/src/TwoSum/TwoSum.java" />
+        <option value="$PROJECT_DIR$/src/TwoSum/TwoSumDemo.java" />
+        <option value="$PROJECT_DIR$/src/TwoSum/TwoSumTest.java" />
+        <option value="$PROJECT_DIR$/src/reverseString/reverseString.java" />
+        <option value="$PROJECT_DIR$/src/reverseString/reverseStringTest.java" />
+        <option value="$PROJECT_DIR$/src/ReverseString/reverseStringTest.java" />
+        <option value="$PROJECT_DIR$/src/ReverseString/ReverseString.java" />
+        <option value="$PROJECT_DIR$/src/ReverseString/ReverseStringTest.java" />
       </list>
     </option>
   </component>
@@ -117,9 +110,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2" />
-    <option name="width" value="1266" />
-    <option name="height" value="1020" />
+    <option name="x" value="383" />
+    <option name="y" value="3" />
+    <option name="width" value="1277" />
+    <option name="height" value="841" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -127,8 +121,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,10 +139,42 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="FindDuplicate" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaReview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaReview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GroupString" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaReview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaReview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MapAndSet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaReview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaReview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MapConcat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaReview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaReview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ReverseString" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaReview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaReview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TwoSum" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FindDuplicateDemoTest.findDuplicateTest2">
+  <component name="RunManager" selected="JUnit.ReverseStringTest.reverseStringTest2">
     <configuration name="BinarySearch" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearch" />
       <module name="UdacityJava" />
@@ -189,81 +213,80 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDuplicateDemoTest.findDuplicateTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseStringTest.reverseStringTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UdacityJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FindDuplicate.*" />
+          <option name="PATTERN" value="ReverseString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="FindDuplicate" />
-      <option name="MAIN_CLASS_NAME" value="FindDuplicate.FindDuplicateDemoTest" />
-      <option name="METHOD_NAME" value="findDuplicateTest1" />
+      <option name="PACKAGE_NAME" value="ReverseString" />
+      <option name="MAIN_CLASS_NAME" value="ReverseString.ReverseStringTest" />
+      <option name="METHOD_NAME" value="reverseStringTest1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDuplicateDemoTest.findDuplicateTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseStringTest.reverseStringTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UdacityJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FindDuplicate.*" />
+          <option name="PATTERN" value="ReverseString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="FindDuplicate" />
-      <option name="MAIN_CLASS_NAME" value="FindDuplicate.FindDuplicateDemoTest" />
-      <option name="METHOD_NAME" value="findDuplicateTest2" />
+      <option name="PACKAGE_NAME" value="ReverseString" />
+      <option name="MAIN_CLASS_NAME" value="ReverseString.ReverseStringTest" />
+      <option name="METHOD_NAME" value="reverseStringTest2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDuplicateTest.testFindFirstDuplicateCharacter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TwoSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UdacityJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FindDuplicate.*" />
+          <option name="PATTERN" value="TwoSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="FindDuplicate" />
-      <option name="MAIN_CLASS_NAME" value="FindDuplicate.FindDuplicateTest" />
-      <option name="METHOD_NAME" value="testFindFirstDuplicateCharacter" />
+      <option name="PACKAGE_NAME" value="TwoSum" />
+      <option name="MAIN_CLASS_NAME" value="TwoSum.TwoSumTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSumTest.twoSumFalseThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UdacityJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TwoSum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TwoSum" />
+      <option name="MAIN_CLASS_NAME" value="TwoSum.TwoSumTest" />
+      <option name="METHOD_NAME" value="twoSumFalseThree" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDuplicateTest.testFindFirstDuplicateCharacterLong" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TwoSumTest.twoSumTrueTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UdacityJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FindDuplicate.*" />
+          <option name="PATTERN" value="TwoSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="FindDuplicate" />
-      <option name="MAIN_CLASS_NAME" value="FindDuplicate.FindDuplicateTest" />
-      <option name="METHOD_NAME" value="testFindFirstDuplicateCharacterLong" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindDuplicateTest.testNoDuplicateCharFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UdacityJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FindDuplicate.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="FindDuplicate" />
-      <option name="MAIN_CLASS_NAME" value="FindDuplicate.FindDuplicateTest" />
-      <option name="METHOD_NAME" value="testNoDuplicateCharFound" />
+      <option name="PACKAGE_NAME" value="TwoSum" />
+      <option name="MAIN_CLASS_NAME" value="TwoSum.TwoSumTest" />
+      <option name="METHOD_NAME" value="twoSumTrueTwo" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -272,19 +295,19 @@
     <list>
       <item itemvalue="Application.BinarySearch" />
       <item itemvalue="Application.VowelOnly" />
-      <item itemvalue="JUnit.FindDuplicateTest.testFindFirstDuplicateCharacter" />
-      <item itemvalue="JUnit.FindDuplicateTest.testNoDuplicateCharFound" />
-      <item itemvalue="JUnit.FindDuplicateTest.testFindFirstDuplicateCharacterLong" />
-      <item itemvalue="JUnit.FindDuplicateDemoTest.findDuplicateTest1" />
-      <item itemvalue="JUnit.FindDuplicateDemoTest.findDuplicateTest2" />
+      <item itemvalue="JUnit.TwoSumTest" />
+      <item itemvalue="JUnit.TwoSumTest.twoSumTrueTwo" />
+      <item itemvalue="JUnit.TwoSumTest.twoSumFalseThree" />
+      <item itemvalue="JUnit.ReverseStringTest.reverseStringTest2" />
+      <item itemvalue="JUnit.ReverseStringTest.reverseStringTest1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FindDuplicateDemoTest.findDuplicateTest2" />
-        <item itemvalue="JUnit.FindDuplicateDemoTest.findDuplicateTest1" />
-        <item itemvalue="JUnit.FindDuplicateTest.testFindFirstDuplicateCharacter" />
-        <item itemvalue="JUnit.FindDuplicateTest.testFindFirstDuplicateCharacterLong" />
-        <item itemvalue="JUnit.FindDuplicateTest.testNoDuplicateCharFound" />
+        <item itemvalue="JUnit.ReverseStringTest.reverseStringTest2" />
+        <item itemvalue="JUnit.ReverseStringTest.reverseStringTest1" />
+        <item itemvalue="JUnit.TwoSumTest.twoSumFalseThree" />
+        <item itemvalue="JUnit.TwoSumTest.twoSumTrueTwo" />
+        <item itemvalue="JUnit.TwoSumTest" />
       </list>
     </recent_temporary>
   </component>
@@ -302,42 +325,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FindDuplicateTest_testFindFirstDuplicateCharacterLong - 2019.09.13 at 05h 53m 00s.xml">
-      <configuration name="FindDuplicateTest.testFindFirstDuplicateCharacterLong" configurationId="JUnit" />
+    <history-entry file="ReverseStringTest_reverseStringTest1 - 2019.09.16 at 04h 26m 32s.xml">
+      <configuration name="ReverseStringTest.reverseStringTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindDuplicateTest_testFindFirstDuplicateCharacterLong - 2019.09.13 at 05h 55m 08s.xml">
-      <configuration name="FindDuplicateTest.testFindFirstDuplicateCharacterLong" configurationId="JUnit" />
+    <history-entry file="ReverseStringTest_reverseStringTest2 - 2019.09.16 at 04h 31m 14s.xml">
+      <configuration name="ReverseStringTest.reverseStringTest2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindDuplicateTest_testFindFirstDuplicateCharacter - 2019.09.13 at 05h 56m 19s.xml">
-      <configuration name="FindDuplicateTest.testFindFirstDuplicateCharacter" configurationId="JUnit" />
+    <history-entry file="ReverseStringTest_reverseStringTest2 - 2019.09.16 at 04h 42m 51s.xml">
+      <configuration name="ReverseStringTest.reverseStringTest2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindDuplicateTest_testNoDuplicateCharFound - 2019.09.13 at 05h 56m 27s.xml">
-      <configuration name="FindDuplicateTest.testNoDuplicateCharFound" configurationId="JUnit" />
+    <history-entry file="ReverseStringTest_reverseStringTest2 - 2019.09.16 at 04h 46m 13s.xml">
+      <configuration name="ReverseStringTest.reverseStringTest2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindDuplicateTest_testFindFirstDuplicateCharacter - 2019.09.13 at 05h 57m 06s.xml">
-      <configuration name="FindDuplicateTest.testFindFirstDuplicateCharacter" configurationId="JUnit" />
+    <history-entry file="ReverseStringTest_reverseStringTest2 - 2019.09.16 at 04h 47m 10s.xml">
+      <configuration name="ReverseStringTest.reverseStringTest2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindDuplicateTest_testFindFirstDuplicateCharacter - 2019.09.13 at 06h 01m 17s.xml">
-      <configuration name="FindDuplicateTest.testFindFirstDuplicateCharacter" configurationId="JUnit" />
+    <history-entry file="ReverseStringTest_reverseStringTest1 - 2019.09.16 at 04h 47m 31s.xml">
+      <configuration name="ReverseStringTest.reverseStringTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindDuplicateTest_testNoDuplicateCharFound - 2019.09.13 at 06h 01m 34s.xml">
-      <configuration name="FindDuplicateTest.testNoDuplicateCharFound" configurationId="JUnit" />
+    <history-entry file="ReverseStringTest_reverseStringTest2 - 2019.09.16 at 04h 54m 03s.xml">
+      <configuration name="ReverseStringTest.reverseStringTest2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindDuplicateTest_testNoDuplicateCharFound - 2019.09.13 at 06h 02m 03s.xml">
-      <configuration name="FindDuplicateTest.testNoDuplicateCharFound" configurationId="JUnit" />
+    <history-entry file="ReverseStringTest_reverseStringTest1 - 2019.09.16 at 04h 54m 26s.xml">
+      <configuration name="ReverseStringTest.reverseStringTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindDuplicateTest_testFindFirstDuplicateCharacterLong - 2019.09.13 at 06h 02m 12s.xml">
-      <configuration name="FindDuplicateTest.testFindFirstDuplicateCharacterLong" configurationId="JUnit" />
+    <history-entry file="ReverseStringTest_reverseStringTest1 - 2019.09.16 at 05h 05m 25s.xml">
+      <configuration name="ReverseStringTest.reverseStringTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindDuplicateTest_testFindFirstDuplicateCharacter - 2019.09.13 at 06h 02m 26s.xml">
-      <configuration name="FindDuplicateTest.testFindFirstDuplicateCharacter" configurationId="JUnit" />
+    <history-entry file="ReverseStringTest_reverseStringTest2 - 2019.09.16 at 05h 05m 43s.xml">
+      <configuration name="ReverseStringTest.reverseStringTest2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="0" width="1266" height="1020" extended-state="0" />
+    <frame x="383" y="3" width="1277" height="841" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22436975" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1498751" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -346,7 +369,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42923978" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45266274" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.41520467" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -364,6 +387,34 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven" order="7" weight="0.32915568" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29577464" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42923978" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41520467" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32664755" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.32915568" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/VowelOnly/Main.java" />
@@ -424,16 +475,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GroupString/ListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="58" column="42" lean-forward="true" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GroupString/GoupStringTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317">
@@ -448,26 +489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MapAndSet/MapAndSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="38" column="77" selection-start-line="38" selection-start-column="77" selection-end-line="38" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MapAndSet/MapAndSetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -512,6 +533,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindDuplicate/FindDuplicateDemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/FindDuplicate/FindDuplicateTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -522,13 +550,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FindDuplicate/FindDuplicateDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/src/MapAndSet/MapAndSetTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state relative-caret-position="189">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindDuplicate/FindDuplicateDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GroupString/ListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1218">
+          <caret line="58" column="42" lean-forward="true" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapAndSet/MapAndSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TwoSum/TwoSumDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TwoSum/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TwoSum/TwoSumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="47" column="28" lean-forward="true" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReverseString/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#580#591#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReverseString/ReverseStringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
         </state>
       </provider>
     </entry>
